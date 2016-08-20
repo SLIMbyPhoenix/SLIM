@@ -1,2 +1,2 @@
-# SLIM
-#SLIM #Selenium #Library #Implementation #Module 
+# SLIM Framework
+#SLIM #Selenium #Library #Implementation #Module #Framework
